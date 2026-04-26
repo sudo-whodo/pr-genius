@@ -1,6 +1,6 @@
 PyGithub==2.5.0
 python-dotenv==1.0.1
-gitpython==3.1.44
+gitpython>=3.1.47
 openai>=1.0.0,<2.0.0
 requests==2.32.3
 python-semantic-release==9.17.0
